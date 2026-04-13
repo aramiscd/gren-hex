@@ -1,6 +1,8 @@
 # hex
 
-Convert integers to and from hexadecimal strings in Elm.
+Convert integers to and from hexadecimal strings in Gren.
+
+This project is a Gren port of [rtfeldman/elm-hex](https://github.com/rtfeldman/elm-hex).
 
     -- Convert a hexdecimal string such as "abc94f" to a decimal integer.
 
